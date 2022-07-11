@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Construct Dirctory
+build/
+builds/
